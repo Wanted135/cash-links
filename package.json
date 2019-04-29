@@ -1,0 +1,26 @@
+{
+    "name": "cash-links",
+    "version": "1.0.0",
+    "description": "💵 A list of evil cash-links.",
+    "main": "links.test.js",
+    "scripts": {
+        "test": "jest",
+        "dev": "jest --watch"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/finndev/cash-links.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/finndev/cash-links/issues"
+    },
+    "homepage": "https://github.com/finndev/cash-links#readme",
+    "devDependencies": {
+        "@babel/core": "*",
+        "@babel/preset-env": "*",
+        "babel-jest": "*",
+        "jest": "*"
+    }
+}
