@@ -85,6 +85,9 @@ https://uploadboy.com/
 https://natsuus.com/
 https://link-to.net/
 https://is.gd/
+http://is.gd/
+https://is.gd
+http://is.gd
 https://www.writeurl.com
 https://malomaatit.com/
 https://sendspace.com/file/12zoqv
@@ -865,6 +868,5 @@ https://pluscotech.com
 https://freebitco.in/
 https://discord.gg/73zVjcm
 https://discord.gg/KRPxhW
-https://is.gd/
 https://eleaks.net/
 https://anonfile.com/Y1kc63u1n0/bin_txt
