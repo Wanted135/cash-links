@@ -18,9 +18,9 @@
     },
     "homepage": "https://github.com/finndev/cash-links#readme",
     "devDependencies": {
-        "@babel/core": "*",
-        "@babel/preset-env": "*",
-        "babel-jest": "*",
-        "jest": "*"
+        "@babel/core": "^7.6.0",
+        "@babel/preset-env": "^7.6.0",
+        "babel-jest": "^24.9.0",
+        "jest": "^24.9.0"
     }
 }
