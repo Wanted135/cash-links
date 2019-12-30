@@ -1319,7 +1319,6 @@ http://bit.ly
 http://goo.gl
 http://anotepad.com
 http://newswatan.com
-http://is.gd
 http://cashlinks.com
 http://hidelinks.com
 http://cashat.net
@@ -1830,8 +1829,6 @@ http://utfg.sk/
 https://n9.cl/
 http://libittarc.com
 https://is.gd/B1xc6I
-https://is.gd/
-https://is.gd
 https://anonfile.com/75UeP9Jdnd/AutoP1Method_pdf
 https://anonfile.com/z9r5H3C2n3/Working_..._5_2_1_pdf
 https://is.gd/rmqwte
@@ -1845,5 +1842,4 @@ https://exe.io/
 https://anonfile.com/p8nf61Jan2/G2A_Bitbay_exploit_pdf
 https://anonfile.com/h8Cd79Jbn3/G2A_Bitbay_exploit_pdf
 http://utfg.sk/e79ff
-http://utfg.sk/
 http://utfg.sk
